@@ -1,0 +1,1 @@
+# wal-front-nuxt
